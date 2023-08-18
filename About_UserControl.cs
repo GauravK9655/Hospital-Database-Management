@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace NMIMS_Hospital_Management
+{
+    public partial class About_UserControl : UserControl
+    {
+        private static About_UserControl _instance;
+        public static About_UserControl Instance
+        {
+
+            get
+
+            {
+                if (_instance == null)
+                {
+                    _instance = new About_UserControl();
+                }
+                return _instance;
+            }
+        }
+        public About_UserControl()
+        {
+            InitializeComponent();
+        }
+
+        private void About_UserControl_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PatientAssignedWardButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AdmPannel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+    }
+}

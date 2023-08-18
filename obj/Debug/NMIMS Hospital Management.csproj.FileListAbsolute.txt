@@ -1,0 +1,25 @@
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\bin\Debug\NMIMS Hospital Management.exe.config
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\bin\Debug\NMIMS Hospital Management.exe
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\bin\Debug\NMIMS Hospital Management.pdb
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.csproj.AssemblyReference.cache
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.Form1.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.Properties.Resources.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.csproj.GenerateResource.cache
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.csproj.CoreCompileInputs.cache
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.exe
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS Hospital Management.pdb
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\bin\Debug\Database.mdf
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\bin\Debug\Database_log.ldf
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.AppBody.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.Doctors_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.Setting_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.About_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.MedicalRecord_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.BillingTransactions_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.MedicineTransaction_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.PatientWardDetails_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.Form2Testing.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.AdmittedDocPat_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.PatientDet_UserControl.resources
+C:\Users\gaurav\OneDrive\Desktop\nmims\DMS\NMIMS Hospital Management\obj\Debug\NMIMS_Hospital_Management.PatientNurseDoctorDet_UserConrtol.resources
